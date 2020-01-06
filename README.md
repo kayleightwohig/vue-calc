@@ -1,4 +1,4 @@
-# calculator
+# Simple calculator build with VueJS, similar to Apple's calculator 
 
 ## Project setup
 ```
